@@ -12,13 +12,13 @@
         <div class="row d-flex">
             <div class="col-lg-6">
                 <div class="card1 pb-5">
-                    <div class="row px-3 justify-content-center mt-4 mb-5 border-line"> <img src="image/ongc-front-end-image.webp" class="image" style = "height: 550px ; width: 600px "> </div>
+                    <div class="row px-4 py-5 justify-content-center mt-4 mb-5 border-line"> <img src="image/icon.gif" class="image" style = "height: 550px ; width: 600px "> </div>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="card2 card border-0 px-4 py-5" style="background-color:#EEEBDD">
              <div class="intro">
-                <h1 class="elegantshd">ONGC QUIZ SYSTEM</h1>
+                <h1 class="elegantshd">PiSPACE STORAGE SYSTEM</h1>
 				<br>
 				<br>
 				<div style="text-align: center;">
@@ -30,7 +30,7 @@
             </div>
         </div> 
         <div class="bg-blue py-4">
-            <div class="row px-3"> <small class="ml-4 ml-sm-5 mb-2">Copyright Oil and Natural Gas Corporation Ltd.</small>
+            <div class="row px-3"> <small class="ml-4 ml-sm-5 mb-2">Copyright PiSpace Ltd.</small>
                 <div class="social-contact ml-4 ml-sm-auto"> <span class="fa fa-facebook mr-4 text-sm"></span> <span class="fa fa-google-plus mr-4 text-sm"></span> <span class="fa fa-linkedin mr-4 text-sm"></span> <span class="fa fa-twitter mr-4 mr-sm-5 text-sm"></span> </div>
             </div>
         </div>
